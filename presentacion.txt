@@ -1,0 +1,3 @@
+nombre:Carlos Domínguez
+carrera: IECI
+Expectativas pasar el ramo, aprender sobre tailwind y jsx.
